@@ -1,5 +1,10 @@
 <h1>Hi, I'm James! <br/><a href="https://github.com/Jim-Journey">Software Engineer</a>, <a href="https://www.linkedin.com/in/james-schickley/">Cybersecurity Professional</a> </h1>
 
+## About Me
+
+I am a Information Systems Security Officer with 7 years of experience in Cybersecurity. I am developing my skills in a range of programming languages and technologies, including JavaScript, Python, and React.
+
+
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert + LeetCode)</b>
