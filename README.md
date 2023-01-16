@@ -1,4 +1,4 @@
-<h1>Hi, I'm James! <br/><a href="https://github.com/Jim-Journey">Software Engineer</a>, <a href="https://www.linkedin.com/in/james-schickley/">Cybersecurity Professional</a> </h1>
+<h1>Hi, I'm James! <br/><a href="https://github.com/Jim-Journey"></a> <a href="https://www.linkedin.com/in/james-schickley/">Cybersecurity Professional</a> </h1>
 
 ## About Me
 
