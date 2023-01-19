@@ -8,7 +8,7 @@ I am a Information Systems Security Officer with 7 years of experience in Cybers
 
 * 🌍  I'm based in San Antonio, TX
 * 🧠  I'm learning Python, Javascript, React
-* 🤝  I'm open to collaborating on Cybersecurity/AI
+* 🤝  I'm open to collaborating on DevSecOps and Cloud Security topics
 * ⚡  Good food, lifting weights, and movies are A+ activities!
 
 <h2>👨‍💻 Data Structures and Algorithms Practice:</h2>
