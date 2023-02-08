@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is James Schickley
 =======================================================================================================================================
 
-Cybersecurity Professional, Software Engineer
+Cybersecurity Professional
 ---------------------------------------------
 
 I am a Information Systems Security Officer with 7 years of experience in Cybersecurity. I am developing my skills in a range of programming languages and technologies, including JavaScript, Python, and React.
