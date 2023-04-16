@@ -4,12 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Cybersecurity Professional
 ---------------------------------------------
 
-I am a Information Systems Security Officer with 7 years of experience in Cybersecurity. I am developing my skills in a range of programming languages and technologies, including JavaScript, Python, and React.
+I'm an Information Systems Security Officer with 8 years of combined experience in IT/Cybersecurity. I am developing my skills in a range of programming languages and technologies.
 
 * 🌍  I'm based in San Antonio, TX
-* 🧠  I'm learning Python, Javascript, React
+* 🧠  I'm learning Python, Java, and C++ while attending Western Governors University's Computer Science program
 * 🤝  I'm open to collaborating on DevSecOps and Cloud Security topics
-* ⚡  Good food, lifting weights, and movies are A+ activities!
 
 <h2>👨‍💻 Data Structures and Algorithms Practice:</h2>
 
