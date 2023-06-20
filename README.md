@@ -7,7 +7,7 @@ Cybersecurity Professional
 I'm an Information Systems Security Officer with 8 years of combined experience in IT/Cybersecurity. I am developing my skills in a range of programming languages and technologies.
 
 * 🌍  I'm based in San Antonio, TX
-* 🧠  I'm learning Python, Java, and C++ while attending Western Governors University's Computer Science program
+* 🧠  I'm learning Python as my main language currently. 
 * 🤝  I'm open to collaborating on DevSecOps and Cloud Security topics
 
 <h2>👨‍💻 Data Structures and Algorithms Practice:</h2>
