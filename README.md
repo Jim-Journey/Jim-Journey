@@ -15,7 +15,7 @@ I'm an Information Systems Security Officer with 8 years of combined experience 
 - <b>(AlgoExpert + LeetCode)</b>
   - [Practicing DS & Algos in Python](https://github.com/Jim-Journey/Algorithms-Practice)
 
-<h2>💻Projects:</h2>
+<h2>💻 Projects:</h2>
 
 - [Web Spider Project in Python](https://github.com/Jim-Journey/Web-Spider-Project)
 
