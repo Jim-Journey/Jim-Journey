@@ -19,9 +19,6 @@ I'm an Information Systems Security Officer with 8 years of combined experience 
 
 - [Web Spider Project in Python](https://github.com/Jim-Journey/Web-Spider-Project)
 
-<h2>😀 Personal Projects:</h2>
-- TBA
-
 
 ### Skills
 
