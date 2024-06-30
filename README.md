@@ -17,6 +17,7 @@ I'm an Information Systems Security Officer with 8 years of combined experience 
 <h2>💻 Projects:</h2>
 
 - [Web Spider Project in Python](https://github.com/Jim-Journey/Web-Spider-Project)
+- [ROI Cash Secured Put Calculator](https://github.com/Jim-Journey/roi-calculator)
 
 
 ### Skills
